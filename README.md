@@ -10,17 +10,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,unreal"/>
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot"/>
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,java"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,java"/>
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,blender,vscode,git,github,figma"/>
+    <img src="https://skillicons.dev/icons?i=ps,blender,vscode,git,github,figma,notion"/>
 </p>
 
 ## My Stats

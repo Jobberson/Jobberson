@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-<p align="center">I'm an indie game developer that is also a software engineering student!</p>
+<p align="center">I'm an indie game developer</p>
 <p align="center">I want people to play my games and remember them, feel feelings deeply and, above all, enjoy the journey</p>
 
 ## Things I Know
@@ -10,17 +10,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot"/>
+    <img src="https://skillicons.dev/icons?i=unity,unreal"/>
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,python,java"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js"/>
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,blender,vscode,git,github,figma,notion"/>
+    <img src="https://skillicons.dev/icons?i=ps,blender,figma"/>
 </p>
 
 ## My Stats

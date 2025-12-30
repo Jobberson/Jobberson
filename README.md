@@ -29,6 +29,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
         <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+        <img src="https://img.shields.io/badge/Forge-1A1A1A?style=for-the-badge&logo=curseforge&logoColor=FFA500"/>
       </p>
     </div>
   </div>

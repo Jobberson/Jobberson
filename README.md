@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>Hello there 👋</h1>
-    <p align="center">I'm an indie game developer</p>
+    <p align="center">I'm an indie game designer and developer</p>
     <p align="center">I want people to play my games and remember them, feel feelings deeply and, above all, enjoy the journey</p>
   </div>
   <div>

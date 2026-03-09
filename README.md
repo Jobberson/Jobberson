@@ -43,7 +43,7 @@
         </a>
       </p>
       <p align="center" >
-        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <a href="https://github.com/Jobberson/github-readme-stats">
           <img src="https://github-readme-stats-ten-peach-27.vercel.app/api/top-langs/?username=jobberson&layout=compact&theme=ocean_dark&hide_border=true"/>
       </p>
     </div>

@@ -37,8 +37,8 @@
     <h2>My Stats</h2>
     <div>
       <p align="center">
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img src="github-readme-streak-stats-six-swart-46.vercel.app/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
         </a>
       </p>
      <p align="center">

@@ -38,7 +38,7 @@
     <div>
       <p align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
+          <img src="https://streak-stats.demolab.com/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff&exclude_days=Sun%2CSat"/>
         </a>
       </p>
      <p align="center">

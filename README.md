@@ -42,10 +42,11 @@
           <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
         </a>
       </p>
-      <p align="center" >
-        <a href="https://github.com/Jobberson/github-readme-stats">
-          <img src="https://github-readme-stats-ten-peach-27.vercel.app/api/top-langs/?username=jobberson&layout=compact&theme=ocean_dark&hide_border=true"/>
-      </p>
+     <p align="center">
+       <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats-ten-peach-27.vercel.app/api/top-langs/?username=jobberson&layout=compact&theme=ocean_dark&hide_border=true" />
+       </a>
+     </p>
     </div>
   </div>
   <div>

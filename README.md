@@ -39,12 +39,12 @@
       <p align="center">
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
           <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-          <img src="https://github-readme-stats-ten-peach-27.vercel.app/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jobberson&theme=ocean-dark&hide_border=true&short_numbers=true&sideLabels=e6d7ff"/>
         </a>
       </p>
       <p align="center" >
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobberson&layout=compact&theme=ocean_dark&hide_border=true"/>
+          <img src="https://github-readme-stats-ten-peach-27.vercel.app/api/top-langs/?username=jobberson&layout=compact&theme=ocean_dark&hide_border=true"/>
       </p>
     </div>
   </div>

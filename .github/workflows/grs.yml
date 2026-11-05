@@ -20,7 +20,7 @@ jobs:
           card: top-langs
           options: username=jobberson&layout=compact&theme=ocean_dark&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
